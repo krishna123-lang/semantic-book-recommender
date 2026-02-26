@@ -1,0 +1,570 @@
+{
+  "searches": [
+    {
+      "query": "mood:Happy",
+      "language": "en",
+      "num_results": 5,
+      "result_titles": [
+        "The Hitchhiker's Guide to the Galaxy",
+        "Good Omens",
+        "The Adventures of Tom Sawyer",
+        "The Cat in the Hat",
+        "Don Quixote"
+      ],
+      "timestamp": "2026-02-26T18:59:54.276306"
+    },
+    {
+      "query": "i have bad mood today yaar",
+      "language": "so",
+      "num_results": 5,
+      "result_titles": [
+        "Beowulf",
+        "The Three Musketeers",
+        "The Road",
+        "The Master and Margarita",
+        "One Hundred Years of Solitude"
+      ],
+      "timestamp": "2026-02-26T19:01:08.393541"
+    },
+    {
+      "query": "Find me a sci-fi book about space exploration",
+      "language": "en",
+      "num_results": 5,
+      "result_titles": [
+        "A Wrinkle in Time",
+        "The Invisible Man",
+        "The War of the Worlds",
+        "Dune",
+        "Foundation"
+      ],
+      "timestamp": "2026-02-26T19:01:50.820350"
+    },
+    {
+      "query": "रहस्य उपन्यास",
+      "language": "hi",
+      "num_results": 5,
+      "result_titles": [
+        "One Hundred Years of Solitude",
+        "The Da Vinci Code",
+        "The Girl with the Dragon Tattoo",
+        "The Lord of the Rings",
+        "Holes"
+      ],
+      "timestamp": "2026-02-26T19:03:23.560737"
+    },
+    {
+      "query": "mood:Emotional",
+      "language": "en",
+      "num_results": 5,
+      "result_titles": [
+        "Wuthering Heights",
+        "Jane Eyre",
+        "Bridge to Terabithia",
+        "The Road",
+        "Anna Karenina"
+      ],
+      "timestamp": "2026-02-26T20:15:32.789691"
+    },
+    {
+      "query": "रहस्य उपन्यास\n",
+      "language": "hi",
+      "num_results": 5,
+      "result_titles": [
+        "One Hundred Years of Solitude",
+        "The Da Vinci Code",
+        "The Girl with the Dragon Tattoo",
+        "The Lord of the Rings",
+        "Holes"
+      ],
+      "timestamp": "2026-02-26T20:16:06.402054"
+    },
+    {
+      "query": " One Hundred Years of Solitude",
+      "language": "en",
+      "num_results": 5,
+      "result_titles": [
+        "David Copperfield",
+        "The Road",
+        "Frankenstein",
+        "One Hundred Years of Solitude",
+        "Slaughterhouse-Five"
+      ],
+      "timestamp": "2026-02-26T20:17:12.096709"
+    },
+    {
+      "query": " One Hundred Years of Solitude is it good book",
+      "language": "en",
+      "num_results": 5,
+      "result_titles": [
+        "David Copperfield",
+        "The Book Thief",
+        "A Tale of Two Cities",
+        "Frankenstein",
+        "Where the Wild Things Are"
+      ],
+      "timestamp": "2026-02-26T20:17:34.650676"
+    },
+    {
+      "query": "Suggest a romantic fiction book",
+      "language": "en",
+      "num_results": 5,
+      "result_titles": [
+        "Lolita",
+        "Carrie",
+        "Jane Eyre",
+        "Rebecca",
+        "Wuthering Heights"
+      ],
+      "timestamp": "2026-02-26T20:17:58.005730"
+    },
+    {
+      "query": "mood:Happy",
+      "language": "en",
+      "num_results": 5,
+      "result_titles": [
+        "The Hitchhiker's Guide to the Galaxy",
+        "Good Omens",
+        "The Adventures of Tom Sawyer",
+        "The Cat in the Hat",
+        "Don Quixote"
+      ],
+      "timestamp": "2026-02-26T20:19:10.976523"
+    },
+    {
+      "query": "रहस्य उपन्यास\n",
+      "language": "hi",
+      "num_results": 5,
+      "result_titles": [
+        "One Hundred Years of Solitude",
+        "The Da Vinci Code",
+        "The Girl with the Dragon Tattoo",
+        "The Lord of the Rings",
+        "Holes"
+      ],
+      "timestamp": "2026-02-26T20:19:32.809540"
+    },
+    {
+      "query": "रहस्य उपन्यास\n",
+      "language": "hi",
+      "num_results": 10,
+      "result_titles": [
+        "One Hundred Years of Solitude",
+        "The Da Vinci Code",
+        "The Girl with the Dragon Tattoo",
+        "The Lord of the Rings",
+        "Holes",
+        "The Three Musketeers",
+        "Dune",
+        "The Time Machine",
+        "Fahrenheit 451",
+        "Anna Karenina"
+      ],
+      "timestamp": "2026-02-26T20:19:36.624397"
+    },
+    {
+      "query": "Recommend me a mystery novel with suspense",
+      "language": "en",
+      "num_results": 5,
+      "result_titles": [
+        "The Da Vinci Code",
+        "Carrie",
+        "Frankenstein",
+        "The Girl with the Dragon Tattoo",
+        "The Book Thief"
+      ],
+      "timestamp": "2026-02-26T20:20:22.073838"
+    },
+    {
+      "query": "I want a fantasy adventure with magic and dragons",
+      "language": "en",
+      "num_results": 5,
+      "result_titles": [
+        "A Court of Thorns and Roses",
+        "The Lord of the Rings",
+        "Stardust",
+        "Good Omens",
+        "Throne of Glass"
+      ],
+      "timestamp": "2026-02-26T20:20:31.144207"
+    }
+  ],
+  "mood_selections": [
+    {
+      "mood": "Happy",
+      "timestamp": "2026-02-26T18:59:54.254219"
+    },
+    {
+      "mood": "Emotional",
+      "timestamp": "2026-02-26T20:15:32.758198"
+    },
+    {
+      "mood": "Happy",
+      "timestamp": "2026-02-26T20:19:10.940057"
+    }
+  ],
+  "surprise_clicks": [],
+  "chatbot_conversations": [
+    {
+      "user_message": "hi",
+      "bot_response": "# 👋 Hello! Welcome to Book Chat!\n\nI'm your AI book companion. I can help you:\n\n- 📚 **Find book recommendations** based on your interests\n- 🔍 **Search by genre, theme, or mood**\n- 📖 **Get details** abo",
+      "language": "sw",
+      "timestamp": "2026-02-26T19:00:46.517525"
+    },
+    {
+      "user_message": "i have bad mood today yaar",
+      "bot_response": "# 📚 Here are my top recommendations!\n*🌍 Detected language: So*\n\n**#1 — Beowulf**\n✍️ *Unknown* | 📂 Epic\n🎯 Match: **Fair** (3%) | 🏷️ Themes: General Fiction\n\n> The legendary Geatish warrior Beowulf batt",
+      "language": "so",
+      "timestamp": "2026-02-26T19:01:08.696840"
+    },
+    {
+      "user_message": "Find me a sci-fi book about space exploration",
+      "bot_response": "# 📚 Here are my top recommendations!\n\n**#1 — A Wrinkle in Time**\n✍️ *Madeleine L'Engle* | 📂 Science Fiction\n🎯 Match: **Fair** (15%) | 🏷️ Themes: Sci-fi\n\n> Meg Murry travels through space and time with",
+      "language": "en",
+      "timestamp": "2026-02-26T19:01:51.100848"
+    },
+    {
+      "user_message": "hi",
+      "bot_response": "# 👋 Hello! Welcome to Book Chat!\n\nI'm your AI book companion. I can help you:\n\n- 📚 **Find book recommendations** based on your interests\n- 🔍 **Search by genre, theme, or mood**\n- 📖 **Get details** abo",
+      "language": "sw",
+      "timestamp": "2026-02-26T20:16:45.635410"
+    },
+    {
+      "user_message": " One Hundred Years of Solitude",
+      "bot_response": "# 📚 Here are my top recommendations!\n\n**#1 — David Copperfield**\n✍️ *Charles Dickens* | 📂 Fiction\n🎯 Match: **Fair** (8%) | 🏷️ Themes: Drama\n\n> The semi-autobiographical story of David Copperfield's jo",
+      "language": "en",
+      "timestamp": "2026-02-26T20:17:12.286173"
+    },
+    {
+      "user_message": " One Hundred Years of Solitude is it good book",
+      "bot_response": "# 📚 Here are my top recommendations!\n\n**#1 — David Copperfield**\n✍️ *Charles Dickens* | 📂 Fiction\n🎯 Match: **Fair** (11%) | 🏷️ Themes: Drama\n\n> The semi-autobiographical story of David Copperfield's j",
+      "language": "en",
+      "timestamp": "2026-02-26T20:17:34.846187"
+    },
+    {
+      "user_message": "Suggest a romantic fiction book",
+      "bot_response": "# 📚 Here are my top recommendations!\n\n**#1 — Lolita**\n✍️ *Vladimir Nabokov* | 📂 Fiction\n🎯 Match: **Fair** (11%) | 🏷️ Themes: General Fiction\n\n> Humbert Humbert's obsessive and destructive infatuation ",
+      "language": "en",
+      "timestamp": "2026-02-26T20:17:58.213603"
+    },
+    {
+      "user_message": "hii",
+      "bot_response": "# 👋 Hello! Welcome to Book Chat!\n\nI'm your AI book companion. I can help you:\n\n- 📚 **Find book recommendations** based on your interests\n- 🔍 **Search by genre, theme, or mood**\n- 📖 **Get details** abo",
+      "language": "so",
+      "timestamp": "2026-02-26T20:20:10.655449"
+    },
+    {
+      "user_message": "Recommend me a mystery novel with suspense",
+      "bot_response": "# 📚 Here are my top recommendations!\n\n**#1 — The Da Vinci Code**\n✍️ *Dan Brown* | 📂 Thriller\n🎯 Match: **Fair** (14%) | 🏷️ Themes: General Fiction\n\n> Symbologist Robert Langdon unravels a mystery invol",
+      "language": "en",
+      "timestamp": "2026-02-26T20:20:22.307551"
+    },
+    {
+      "user_message": "I want a fantasy adventure with magic and dragons",
+      "bot_response": "# 📚 Here are my top recommendations!\n\n**#1 — A Court of Thorns and Roses**\n✍️ *Sarah J. Maas* | 📂 Fantasy\n🎯 Match: **Fair** (11%) | 🏷️ Themes: Adventure, Fantasy\n\n> Feyre kills a wolf and is taken to ",
+      "language": "en",
+      "timestamp": "2026-02-26T20:20:31.379327"
+    }
+  ],
+  "book_views": [
+    {
+      "title": "Beowulf",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T19:01:08.431045"
+    },
+    {
+      "title": "The Three Musketeers",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T19:01:08.486850"
+    },
+    {
+      "title": "The Road",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T19:01:08.540508"
+    },
+    {
+      "title": "The Master and Margarita",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T19:01:08.600865"
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T19:01:08.648493"
+    },
+    {
+      "title": "A Wrinkle in Time",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T19:01:50.862838"
+    },
+    {
+      "title": "The Invisible Man",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T19:01:50.908084"
+    },
+    {
+      "title": "The War of the Worlds",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T19:01:50.955043"
+    },
+    {
+      "title": "Dune",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T19:01:51.014429"
+    },
+    {
+      "title": "Foundation",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T19:01:51.055423"
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "source": "search",
+      "timestamp": "2026-02-26T19:03:23.618033"
+    },
+    {
+      "title": "The Da Vinci Code",
+      "source": "search",
+      "timestamp": "2026-02-26T19:03:23.711237"
+    },
+    {
+      "title": "The Girl with the Dragon Tattoo",
+      "source": "search",
+      "timestamp": "2026-02-26T19:03:23.802871"
+    },
+    {
+      "title": "The Lord of the Rings",
+      "source": "search",
+      "timestamp": "2026-02-26T19:03:23.843563"
+    },
+    {
+      "title": "Holes",
+      "source": "search",
+      "timestamp": "2026-02-26T19:03:23.921485"
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "source": "search",
+      "timestamp": "2026-02-26T20:16:06.433855"
+    },
+    {
+      "title": "The Da Vinci Code",
+      "source": "search",
+      "timestamp": "2026-02-26T20:16:06.464717"
+    },
+    {
+      "title": "The Girl with the Dragon Tattoo",
+      "source": "search",
+      "timestamp": "2026-02-26T20:16:06.493731"
+    },
+    {
+      "title": "The Lord of the Rings",
+      "source": "search",
+      "timestamp": "2026-02-26T20:16:06.525332"
+    },
+    {
+      "title": "Holes",
+      "source": "search",
+      "timestamp": "2026-02-26T20:16:06.556827"
+    },
+    {
+      "title": "David Copperfield",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:17:12.130026"
+    },
+    {
+      "title": "The Road",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:17:12.163165"
+    },
+    {
+      "title": "Frankenstein",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:17:12.195504"
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:17:12.226409"
+    },
+    {
+      "title": "Slaughterhouse-Five",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:17:12.255996"
+    },
+    {
+      "title": "David Copperfield",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:17:34.685158"
+    },
+    {
+      "title": "The Book Thief",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:17:34.714679"
+    },
+    {
+      "title": "A Tale of Two Cities",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:17:34.747791"
+    },
+    {
+      "title": "Frankenstein",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:17:34.779919"
+    },
+    {
+      "title": "Where the Wild Things Are",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:17:34.814251"
+    },
+    {
+      "title": "Lolita",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:17:58.043599"
+    },
+    {
+      "title": "Carrie",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:17:58.077669"
+    },
+    {
+      "title": "Jane Eyre",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:17:58.110820"
+    },
+    {
+      "title": "Rebecca",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:17:58.144296"
+    },
+    {
+      "title": "Wuthering Heights",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:17:58.179962"
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "source": "search",
+      "timestamp": "2026-02-26T20:19:32.841959"
+    },
+    {
+      "title": "The Da Vinci Code",
+      "source": "search",
+      "timestamp": "2026-02-26T20:19:32.872517"
+    },
+    {
+      "title": "The Girl with the Dragon Tattoo",
+      "source": "search",
+      "timestamp": "2026-02-26T20:19:32.902872"
+    },
+    {
+      "title": "The Lord of the Rings",
+      "source": "search",
+      "timestamp": "2026-02-26T20:19:32.932261"
+    },
+    {
+      "title": "Holes",
+      "source": "search",
+      "timestamp": "2026-02-26T20:19:32.960786"
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "source": "search",
+      "timestamp": "2026-02-26T20:19:36.656242"
+    },
+    {
+      "title": "The Da Vinci Code",
+      "source": "search",
+      "timestamp": "2026-02-26T20:19:36.685846"
+    },
+    {
+      "title": "The Girl with the Dragon Tattoo",
+      "source": "search",
+      "timestamp": "2026-02-26T20:19:36.717467"
+    },
+    {
+      "title": "The Lord of the Rings",
+      "source": "search",
+      "timestamp": "2026-02-26T20:19:36.749408"
+    },
+    {
+      "title": "Holes",
+      "source": "search",
+      "timestamp": "2026-02-26T20:19:36.779904"
+    },
+    {
+      "title": "The Three Musketeers",
+      "source": "search",
+      "timestamp": "2026-02-26T20:19:36.811206"
+    },
+    {
+      "title": "Dune",
+      "source": "search",
+      "timestamp": "2026-02-26T20:19:36.842428"
+    },
+    {
+      "title": "The Time Machine",
+      "source": "search",
+      "timestamp": "2026-02-26T20:19:36.875101"
+    },
+    {
+      "title": "Fahrenheit 451",
+      "source": "search",
+      "timestamp": "2026-02-26T20:19:36.906184"
+    },
+    {
+      "title": "Anna Karenina",
+      "source": "search",
+      "timestamp": "2026-02-26T20:19:36.936294"
+    },
+    {
+      "title": "The Da Vinci Code",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:20:22.121252"
+    },
+    {
+      "title": "Carrie",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:20:22.163290"
+    },
+    {
+      "title": "Frankenstein",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:20:22.199460"
+    },
+    {
+      "title": "The Girl with the Dragon Tattoo",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:20:22.235790"
+    },
+    {
+      "title": "The Book Thief",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:20:22.269879"
+    },
+    {
+      "title": "A Court of Thorns and Roses",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:20:31.185751"
+    },
+    {
+      "title": "The Lord of the Rings",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:20:31.226940"
+    },
+    {
+      "title": "Stardust",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:20:31.271751"
+    },
+    {
+      "title": "Good Omens",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:20:31.312712"
+    },
+    {
+      "title": "Throne of Glass",
+      "source": "chatbot",
+      "timestamp": "2026-02-26T20:20:31.350437"
+    }
+  ]
+}

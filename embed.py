@@ -20,7 +20,7 @@ if sys.platform == 'win32':
 def generate_embeddings(input_path='data/books_cleaned.csv', 
                        index_path='embeddings/faiss.index',
                        metadata_path='embeddings/books_metadata.csv',
-                       model_name='sentence-transformers/all-MiniLM-L6-v2'):
+                       model_name='sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2'):
     """
     Generate embeddings for book descriptions and create FAISS index
     
